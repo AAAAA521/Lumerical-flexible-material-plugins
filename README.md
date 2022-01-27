@@ -5,3 +5,4 @@ three examples of Lumerical flexible material plugins
 more information can be found on website
 https://www.lumerical.com/learn/whitepapers/flexible-material-plugins/
 
+https://mp.weixin.qq.com/s/Bqwm5uWuiNRqrsPsCiEJZA
